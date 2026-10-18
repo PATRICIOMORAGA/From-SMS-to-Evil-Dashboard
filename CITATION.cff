@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "From SMS to the operator panel: hunting a live fake-casino smishing campaign"
+message: "If you use this research, please cite it using the metadata from this file."
+type: report
+authors:
+  - family-names: Moraga
+    given-names: Patricio
+  - family-names: de la Paz
+    given-names: Anthony
+abstract: >-
+  Threat intelligence case study of a Spanish-language smishing campaign that
+  uses a fake online casino and a live operator chat, rather than a cloned
+  bank. The public edition withholds infrastructure identifiers because the
+  campaign was still active. Presented at 8.8 Unreal Chile.
+keywords:
+  - threat-intelligence
+  - smishing
+  - fraud
+  - fake-casino
+  - chile
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+date-released: "2026-08-22"
+conference:
+  name: 8.8 Unreal Chile
+  year: 2026
