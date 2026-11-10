@@ -21,6 +21,8 @@ keywords:
 license: CC-BY-4.0
 license-url: "https://creativecommons.org/licenses/by/4.0/"
 date-released: "2026-08-22"
+doi: 10.5281/zenodo.24121806
+repository-code: "https://github.com/PATRICIOMORAGA/From-SMS-to-Evil-Dashboard"
 conference:
   name: 8.8 Unreal Chile
   year: 2026

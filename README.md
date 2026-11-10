@@ -1,5 +1,7 @@
 # From SMS to the operator panel
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24121806.svg)](https://doi.org/10.5281/zenodo.24121806)
+
 **Threat intelligence case study** · 8.8 Unreal Chile  
 **Authors:** Patricio Moraga · Anthony de la Paz  
 **TLP:WHITE** (this text) · **Live locators withheld (TLP:AMBER)**
@@ -22,6 +24,6 @@ This document is published openly so that authorities, defenders, and the public
 
 ## Citation
 
-Moraga, P., & de la Paz, A. (2026). *From SMS to the operator panel: hunting a live fake-casino smishing campaign.* 8.8 Unreal Chile. See [CITATION.cff](CITATION.cff).
+Moraga, P., & de la Paz, A. (2026). *From SMS to the operator panel: hunting a live fake-casino smishing campaign.* Zenodo. https://doi.org/10.5281/zenodo.24121806 (also presented at 8.8 Unreal Chile). See [CITATION.cff](CITATION.cff).
 
 Text is licensed under [CC BY 4.0](LICENSE).
